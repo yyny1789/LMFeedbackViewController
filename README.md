@@ -7,4 +7,4 @@ LMFeedbackViewController is a custom ViewController based on UMengFeedback_SDK.
 
 2）Add the **LMFeedback** folder into your project.
 
-3) Finally, you can change the UI according to your needs.
+3)  Finally, you can change the UI according to your needs.
