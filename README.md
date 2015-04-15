@@ -1,9 +1,11 @@
 # LMFeedbackViewController
 LMFeedbackViewController is a custom ViewController based on UMengFeedback_SDK.
 
+<img src="https://raw.githubusercontent.com/yyny1789/LMFeedbackViewController/master/LMFeedbackViewController.png" width=320 />
+
 # Usage
 
-1）You need to do the necessary actions according to the UMengFeedback document.[UMengFeedback document](http://dev.umeng.com/feedback/ios/integration). Also do not forget to add **AVFoundation.framework**
+1）You need to do the necessary actions according to the UMengFeedback document.[UMengFeedback document](http://dev.umeng.com/feedback/ios/integration). Also do not forget to add **AVFoundation.framework**.
 
 2）Add the **LMFeedback** folder into your project.
 
